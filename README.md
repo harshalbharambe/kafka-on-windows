@@ -1,7 +1,12 @@
 # kafka-on-windows
+
+
+
 Running Apache Kafka on Windows
 
 # Running Zookeeper:
+
+cd C:\apache-zookeeper-3.5.5-bin\bin
 
 zkserver
 
